@@ -29,7 +29,16 @@ Commands used:
 omv-removekernels
 
 omv-update
+~~~
 
+Now go to the Openmediavault webgui and login.
+Go to OMV-Extras in the menu to the left right under Plugins.
+Here enable the Testing repo and click save and apply.
+
+Now you should be able to find the zfs plugin in the Plugins menu
+or you can go back to the console and type in this command:
+
+~~~
 apt install openmediavault-zfs
 
 exit
@@ -37,5 +46,5 @@ exit
 
 ## Install OpenMediaVault 5 with ZFS [Part 4] [Link To Video](https://www.youtube.com/watch?v=HI5tUHJ8p_M)
 
-### Making some prefered settings and tweaks.
-### Also installing some extra plugins.
+### Here I am just making some prefered settings and tweaks.
+### I am also installing some extra plugins wich I usally use.
