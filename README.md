@@ -1,8 +1,7 @@
 # Clean Install of OpenMediaVault with ZFS
 Instructions to Install Openmediavault with ZFS + some tweaks
 
-## Install OpenMediaVault 5 with ZFS [Part 1] [Link To Video](https://www.youtube.com/watch?v=BMjpDUPF8E0){:target="_blank" rel="noopener"}
-
+## Install OpenMediaVault 5 with ZFS [Part 1] [Link To Video](https://www.youtube.com/watch?v=BMjpDUPF8E0)
 ### Making a clean install of OpenMediaVault 5 using the ISO from [Here](https://sourceforge.net/projects/openmediavault/files/)
 
 ## Install OpenMediaVault 5 with ZFS [Part 2] [Link To Video](https://www.youtube.com/watch?v=Wn_IwMI4dcY)
