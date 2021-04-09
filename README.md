@@ -33,7 +33,8 @@ omv-update
 
 Now go to the Openmediavault webgui and login.
 Go to OMV-Extras in the menu to the left right under Plugins.
-Here enable the Testing repo and click save and apply.
+
+Here you have to enable the "Testing repo" and click save and then apply.
 
 Now you should be able to find the zfs plugin in the Plugins menu
 or you can go back to the console and type in this command:
